@@ -11,5 +11,9 @@ namespace firstTest
         static void Main(string[] args)
         {
         }
+        public void Create1()
+        {
+
+        }
     }
 }
