@@ -17,5 +17,9 @@ namespace ConsoleApp1
         { 
         
         }
+        public void Create1()
+        {
+
+        }
     }
 }
