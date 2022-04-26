@@ -12,5 +12,10 @@ namespace ConsoleApp1
         {
             int num1 = 0;
         }
+
+        public void Create()
+        { 
+        
+        }
     }
 }
